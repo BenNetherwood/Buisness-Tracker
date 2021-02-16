@@ -1,1 +1,3 @@
 Tracking invoices and costs that need to be paid. Raises automatic invoices as PDF - Need to run excel macros to run software.
+Use them if you'd like, modify them, royalty free. 
+* disclaimer - These codes are not production quality - I am not liable if these macros result in personal/buisness loss of income, ill effects and/or death...
